@@ -3,7 +3,7 @@
 $ git rm --cached -r .  
 $ git add .
 ```
-### İf you want repo to another server 
+### İf you want move repo  to another server 
 ```sh
 $  git clone --mirror <URL to my OLD repo location>
 $  cd <New directory where your OLD repo was cloned>
